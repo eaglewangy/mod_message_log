@@ -1,7 +1,8 @@
 
 	mod_message_log - Log one line per message transmission
+        and output message body.
 
-	Author: Holger Weiss <holger@zedat.fu-berlin.de>
+	Original Author: Holger Weiss <holger@zedat.fu-berlin.de>
 
 
 	DESCRIPTION
